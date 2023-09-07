@@ -1,6 +1,0 @@
-fig ,axs = plt.subplots()
-# axs.imshow(image)
-# x_coords , y_coords = zip(*xp)
-# axs.scatter(x_coords,y_coords,color='red')
-# plt.savefig('plane.png')
-# plt.show()
